@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">musicwallet</string>
+    <string name="title_activity_main">musicwallet</string>
+    <string name="package_name">ch.musicwallet</string>
+    <string name="custom_url_scheme">ch.musicwallet</string>
+</resources>
